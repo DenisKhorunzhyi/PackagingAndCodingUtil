@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PackagingAndCodingUtil.Encode.EncodeMaster">
+    <Position X="16.75" Y="0.75" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAEAAAIAAIAAAAAAAAAAAIAAEAAAAAAI=</HashCode>
+      <FileName>Encode\EncodeMaster.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProgramLib.Packaging.BaseTypeFile">
+    <Position X="9.5" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAAAAAAAAAAAAAAQEIAAAAAAAgAA=</HashCode>
+      <FileName>Packaging\BaseTypeFile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProgramLib.Packaging.Js">
+    <Position X="10.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAAgAAAAAACAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>Packaging\Js.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ProgramLib.Packaging.PackagingMaster">
+    <Position X="20" Y="1" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAAAAAAAAAAAAAAQAIIAAgAAAAAA=</HashCode>
+      <FileName>Packaging\PackagingMaster.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProgramLib.Packaging.Css.BaseCssNode">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Packaging\Css\BaseCssNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProgramLib.Packaging.Css.Comment">
+    <Position X="2.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>Packaging\Css\Comment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProgramLib.Packaging.Css.Css">
+    <Position X="12" Y="3.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAQAAAAAAAgAAAAAAGAAAAQAAAAIAAAAgAI=</HashCode>
+      <FileName>Packaging\Css\Css.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ProgramLib.Packaging.Css.CssRule">
+    <Position X="5" Y="2" Width="1.75" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="ProgramLib.Packaging.Css.CssRule.DeclarationBlock">
+        <TypeIdentifier>
+          <NewMemberFileName>Packaging\Css\CssRule.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AIAAAAAEAAIAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Packaging\Css\CssRule.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProgramLib.Packaging.Css.MainLine">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>Packaging\Css\MainLine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProgramLib.Packaging.Html.Html">
+    <Position X="7.5" Y="3.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AEQAAAAAAAQCAACABAAAAAAAAAAAASQCABQAAABAAAA=</HashCode>
+      <FileName>Packaging\Html\Html.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProgramLib.UpdateProgressBar">
+    <Position X="14.75" Y="1.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAIAAAAAAAAAAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>UpdateProgressBar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="ProgramLib.Packaging.IPackagingText">
+    <Position X="10.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Packaging\IPackagingText.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="PackagingAndCodingUtil.Encode.EncodeTable">
+    <Position X="2.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAEAAAAAAAAAAAAAQAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Encode\EncodeMaster.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="PackagingAndCodingUtil.Encode.SpaceOrTab">
+    <Position X="0.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Encode\EncodeMaster.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="PackagingAndCodingUtil.Encode.EndLineSeparator">
+    <Position X="0.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAABAAAAA=</HashCode>
+      <FileName>Encode\EncodeMaster.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ProgramLib.Packaging.Html.Mode">
+    <Position X="2.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>Packaging\Html\Html.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

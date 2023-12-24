@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PackagingAndCodingUtil.MainForm">
+    <Position X="0.5" Y="0.5" Width="2.5" />
+    <Members>
+      <Field Name="chooseDirectory" Hidden="true" />
+      <Field Name="chooseFiles" Hidden="true" />
+      <Field Name="coloringTextCB" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Field Name="doOperationOnFiles" Hidden="true" />
+      <Field Name="doOperationOnText" Hidden="true" />
+      <Field Name="encodeCB" Hidden="true" />
+      <Field Name="endSeparatorCB" Hidden="true" />
+      <Field Name="filesTree" Hidden="true" />
+      <Field Name="formTabs" Hidden="true" />
+      <Field Name="groupBox1" Hidden="true" />
+      <Field Name="groupBox2" Hidden="true" />
+      <Field Name="groupBox3" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Field Name="label1" Hidden="true" />
+      <Field Name="label2" Hidden="true" />
+      <Field Name="label3" Hidden="true" />
+      <Field Name="label4" Hidden="true" />
+      <Field Name="label5" Hidden="true" />
+      <Field Name="label6" Hidden="true" />
+      <Field Name="label7" Hidden="true" />
+      <Field Name="label8" Hidden="true" />
+      <Field Name="numberColoring" Hidden="true" />
+      <Field Name="packaging" Hidden="true" />
+      <Field Name="replaceTextCB" Hidden="true" />
+      <Field Name="resulText" Hidden="true" />
+      <Field Name="selectDestinationEncodeTable" Hidden="true" />
+      <Field Name="selectedFiles" Hidden="true" />
+      <Field Name="selectSourceEncodeTable" Hidden="true" />
+      <Field Name="slashN" Hidden="true" />
+      <Field Name="slashR" Hidden="true" />
+      <Field Name="space" Hidden="true" />
+      <Field Name="spaceOrTabCB" Hidden="true" />
+      <Field Name="tab" Hidden="true" />
+      <Field Name="tabPage1" Hidden="true" />
+      <Field Name="tabPage2" Hidden="true" />
+      <Field Name="textForReplace" Hidden="true" />
+      <Field Name="textIn" Hidden="true" />
+      <Field Name="textOut" Hidden="true" />
+      <Field Name="unpackaging" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>SACBByAAQCBgQRAAACmwMACCxAMAAEBYBGgEACIBgAA=</HashCode>
+      <FileName>MainForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PackagingAndCodingUtil.Program">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PackagingAndCodingUtil.Properties.Resources">
+    <Position X="3.25" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PackagingAndCodingUtil.Properties.Settings">
+    <Position X="3.25" Y="3.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
